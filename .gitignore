@@ -31,3 +31,16 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# Android Studio
+/.idea/
+/.gradle/
+/build/
+/captures/
+local.properties
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
